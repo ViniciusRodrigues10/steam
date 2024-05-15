@@ -2,7 +2,6 @@
 
 <h1 align="center">DevSteam</h1>
 <p align="center">Este é um projeto de clonagem da plataforma Steam, onde os usuários podem descobrir, comprar e jogar uma vasta variedade de jogos para PC.</p>
-
 <br/>
 
 ### Tabela de conteúdos
@@ -12,19 +11,16 @@
 4. [Tecnologias utilizadas](#tecnologias-utilizadas)
 5. [Resultado](#resultado)
 6. [Autor](#autor)
-
 <br/>
 
 ### Status do Projeto
 <h4 align=""> 
 	🚧  DevSteam 🚀 Em andamento...  🚧
 </h4>
-
 <br/>
 
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para enviar solicitações de pull com novos recursos, correções de bugs ou melhorias de desempenho.
-
 <br/>
 
 ### Features
@@ -37,7 +33,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - Instalação do nodejs: https://nodejs.org/
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 <br/>
 
 ### Rodando o projeto
@@ -59,7 +54,6 @@ npm run dev
 ```
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) com o seu navegador.
-
 <br/>
 
 ### Tecnologias utilizadas
@@ -67,12 +61,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Next.js 13.4.1](https://nextjs.org/)
 - [React 18.2.0](https://react.dev/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-  
 <br/>
 
 ### Resultado
 Acesse o site: [clique aqui](https://replica-steam.netlify.app/)
-
 <br/>
 
 ### Autor
